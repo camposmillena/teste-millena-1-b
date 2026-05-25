@@ -1,1 +1,10 @@
- 
+ body{
+    background-color: rgb(255, 180, 151);
+ }
+ header{
+         background-color: rgb(252, 192, 114);
+         color: ghostwhite;
+         text-align: center;
+         max-width: 800px;
+         margin:20;
+ }
