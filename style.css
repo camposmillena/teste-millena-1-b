@@ -9,3 +9,13 @@
          margin:20;
          padding: ;
  }
+ main{ 
+display: flex;
+
+ }
+article{
+ background-color: ivory;
+ color: lightgoldenrodyellow;
+ text-align: justify;
+ 
+}
